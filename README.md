@@ -20,5 +20,6 @@
 <a target="blank"><img align="center" src="Icons/SQL.png" width="50" />SQL</a>
 <a target="blank"><img align="center" src="Icons/NET.png" width="50" />.NET</a>
 <a target="blank"><img align="center" src="Icons/MSSQL.png" width="50" />MSSQL</a>
+<br>
 <a target="blank"><img align="center" src="Icons/WPF.jpeg" width="50" />WPF</a>
 <a target="blank"><img align="center" src="Icons/UWP.png" width="50" />UWP</a>
