@@ -1,4 +1,5 @@
-# <p align="center"> :space_invader: Hello :space_invader: </p>
+# <p align="center"> :space_invader: Hello, I'm Victor :space_invader: </p>
+## <p align="center"> Programming enthusiast with an interest in Software development and Cyber Security. </p>
 <p align="center">
   <a href="https://github.com/lashaka">
     <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lashaka&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="github- stats"/>
@@ -11,7 +12,7 @@
 <a href="https://www.linkedin.com/in/victor-rutskin-9a3a9a226/" target="blank"><img align="center" src="Icons/Social/LinkedIn.png" width="50" />LinkedIn</a>
 <a href="https://leetcode.com/lashaka/" target="blank"><img align="center" src="Icons/Social/Leetcode.png" width="50" />LeetCode</a>
 <a href="https://www.root-me.org/Lashaka?lang=en#5c7a86509b2bb852abfc42e4cd24679f" target="blank"><img align="center" src="Icons/Social/RootMe.png" width="50" />RootMe</a>
-<a href="https://drive.google.com/drive/folders/1WNTWVhgmSy2Srt8VOUuspCrWmtmm6eF0" target="blank"><img align="center" src="Icons/Social/References.png" width="50" />References</a>
+<a href="https://drive.google.com/drive/folders/1WNTWVhgmSy2Srt8VOUuspCrWmtmm6eF0" target="blank"><img align="center" src="Icons/Social/Reference.png" width="50" />References</a>
 
 </div>
 
