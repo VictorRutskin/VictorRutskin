@@ -16,7 +16,7 @@
 
 </div>
 
-## <p align="center"> Programming Languages Tools Etc  </p>
+## <p align="center"> Languages, Tools Etc  </p>
 <div align="center">
 
 <a target="blank"><img align="center" src="Icons/HTML.png" width="50" />HTML</a>
