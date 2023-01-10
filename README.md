@@ -1,4 +1,5 @@
-# <p align="center"> :space_invader: Hello :space_invader: </p>
+# <p align="center"> :space_invader: Hello, I'm Victor :space_invader: </p>
+## <p align="center"> Programming enthusiast with an interest in Software development and Cyber Security. </p>
 <p align="center">
   <a href="https://github.com/lashaka">
     <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lashaka&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="github- stats"/>
