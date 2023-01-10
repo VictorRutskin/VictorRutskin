@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/lashaka">
     <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lashaka&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="github- stats"/>
-    <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lashaka&layout=compact&show_icons=true&langs_count=8&theme=cobalt&count_private=true" alt="Main technologies"/>
   </a>
 </p>
 
