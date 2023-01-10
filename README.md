@@ -16,8 +16,6 @@
 <image width="35" src="Icons/WPF.jpeg"> WPF and UWP MVVM <br>
 
 
-## Connect with me
-
 
 <p align="center">
 
@@ -27,4 +25,7 @@
 </a>
 </p>
 
-<div>
+## My Links
+<a href="https://www.linkedin.com/in/victor-rutskin-9a3a9a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmin gudha" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/lashaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=""height="30" width="40" /></a>
