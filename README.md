@@ -2,18 +2,19 @@
 
 ## Familiar with
 
-<image width="35" src="Icons/HTML.png"> HTML <br>
-<image width="35" src="Icons/CSS.png"> CSS <br> 
-<image width="35" src="Icons/JS.jpg"> JavaScript <br>
-<image width="35" src="Icons/Typescript.png"> TypeScript <br>
-<image width="35" width="33" src="Icons/ANGULAR.png"> Angular <br>
+<image width="50" src="Icons/HTML.png"> HTML <br>
+<image width="50" src="Icons/CSS.png"> CSS <br> 
+<image width="50" src="Icons/JS.jpg"> JavaScript <br>
+<image width="50" src="Icons/Typescript.png"> TypeScript <br>
+<image width="50" width="33" src="Icons/ANGULAR.png"> Angular <br>
 
-<image width="35" src="Icons/csharp.png"> C# <br>
-<image width="35" src="Icons/ASP.NET.avif"> Asp.Net MVC <br>
-<image width="35" src="Icons/SQL.png"> SQL <br>
-<image width="35" src="Icons/NET.png" > .NET framework || NetCore <br>
-<image width="35" src="Icons/MSSQL.png"> MSSQL <br>
-<image width="35" src="Icons/WPF.jpeg"> WPF and UWP MVVM <br>
+<image width="50" src="Icons/csharp.png"> C# <br>
+<image width="50" src="Icons/ASP.NET.avif"> Asp.Net MVC <br>
+<image width="50" src="Icons/SQL.png"> SQL <br>
+<image width="50" src="Icons/NET.png" > .NET framework || NetCore <br>
+<image width="50" src="Icons/MSSQL.png"> MSSQL <br>
+<image width="50" src="Icons/WPF.jpeg"> <br>
+<image width="50" src="Icons/UWP.png"> WPF & UWP <br>
 
 
 
@@ -26,6 +27,10 @@
 </p>
 
 ## My Links
-<a href="https://www.linkedin.com/in/victor-rutskin-9a3a9a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmin gudha" height="30" width="40" /></a>
+  
+  
+<a href="https://www.linkedin.com/in/victor-rutskin-9a3a9a226/" target="blank"><img align="center" src="Icons/Social/LinkedIn.png" alt="Victor Rutskin" width="50" /></a>
 
-<a href="https://leetcode.com/lashaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Rutskin "height="30" width="40" /></a>
+<a href="https://leetcode.com/lashaka/" target="blank"><img align="center" src="Icons/Social/Leetcode.png" alt="Victor Rutskin" width="50" /></a>
+  
+<a href="https://www.root-me.org/Lashaka?lang=en#5c7a86509b2bb852abfc42e4cd24679f" target="blank"><img align="center" src="Icons/Social/RootMe.png" alt="Victor Rutskin" width="50" /></a>
