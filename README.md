@@ -19,17 +19,19 @@
 ### <p align="center"> Languages, Tools Etc  </p>
 <div align="center">
 
+<a target="blank"><img align="center" src="Icons/Python.png" width="50" />Python</a>
 <a target="blank"><img align="center" src="Icons/HTML.png" width="50" />HTML</a>
 <a target="blank"><img align="center" src="Icons/CSS.png" width="50" />CSS</a>
 <a target="blank"><img align="center" src="Icons/JS.jpg" width="50" />JavaScript</a>
+<br>
 <a target="blank"><img align="center" src="Icons/csharp.png" width="50" />CSharp</a>
 <a target="blank"><img align="center" src="Icons/ASP.NET.avif" width="50" />ASP.NET</a>
-<a target="blank"><img align="center" src="Icons/SQL.png" width="50" />SQL</a>
 <a target="blank"><img align="center" src="Icons/NET.png" width="50" />.NET</a>
-<a target="blank"><img align="center" src="Icons/MSSQL.png" width="50" />MSSQL</a>
-<br>
-<a target="blank"><img align="center" src="Icons/Adobe_Photoshop.png" width="50" />Adobe Photoshop</a>
 <a target="blank"><img align="center" src="Icons/WPF.jpeg" width="50" />WPF</a>
 <a target="blank"><img align="center" src="Icons/UWP.png" width="50" />UWP</a>
+<br>
+<a target="blank"><img align="center" src="Icons/Adobe_Photoshop.png" width="50" />Adobe Photoshop</a>
+<a target="blank"><img align="center" src="Icons/MSSQL.png" width="50" />MSSQL</a>
+<a target="blank"><img align="center" src="Icons/SQL.png" width="50" />SQL</a>
 </div>
 
