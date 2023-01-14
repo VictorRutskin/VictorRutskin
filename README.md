@@ -1,7 +1,13 @@
+<!-- Title -->
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Victor+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Victor Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
 
 ### <p align="center"> Programming enthusiast with an interest in Software development and Cyber Security. </p>
+
+<img  src="Icons/borderseperator.gif">
+
+
+<!-- Github stats -->
+### <p align="center"> My Github Stats </p>
 
 <div align="center">
   <img height="180em" width="410em" src="https://streak-stats.demolab.com?user=Lashaka&theme=cobalt&hide_border=true&border_radius=0&fire=0079FA&stroke=0079FA&sideLabels=0079FA&background=193549" alt="streaks graph"  />
@@ -13,6 +19,10 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=Lashaka&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
+<img  src="Icons/borderseperator.gif">
+
+
+<!-- Links -->
 ### <p align="center"> My Links </p>
 <div align="center">
   
@@ -20,9 +30,11 @@
 <a href="https://leetcode.com/lashaka/" target="blank"><img align="center" src="Icons/Social/Leetcode.png" width="50" />LeetCode</a>
 <a href="https://www.root-me.org/Lashaka?lang=en#5c7a86509b2bb852abfc42e4cd24679f" target="blank"><img align="center" src="Icons/Social/RootMe.png" width="50" />RootMe</a>
 <a href="https://drive.google.com/drive/folders/1WNTWVhgmSy2Srt8VOUuspCrWmtmm6eF0" target="blank"><img align="center" src="Icons/Social/Reference.png" width="50" />References</a>
-
 </div>
 
+<img  src="Icons/borderseperator.gif">
+
+<!-- Languages & tools -->
 ### <p align="center"> Languages, Tools Etc  </p>
 <div align="center">
 
