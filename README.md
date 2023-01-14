@@ -1,10 +1,17 @@
-## <p align="center"> :space_invader: Hello, I'm Victor :space_invader: </p>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Victor+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Victor Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
+
 ### <p align="center"> Programming enthusiast with an interest in Software development and Cyber Security. </p>
-<p align="center">
+
+<div align="center">
+  <img height="180em" width="410em" src="https://streak-stats.demolab.com?user=Lashaka&theme=cobalt&hide_border=true&border_radius=0&fire=0079FA&stroke=0079FA&sideLabels=0079FA&background=193549" alt="streaks graph"  />
+  
   <a href="https://github.com/lashaka">
-    <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lashaka&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="github- stats"/>
+    <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lashaka&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&border_radius=0" alt="github- stats"/>
   </a>
-</p>
+  </div>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Lashaka&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
 ### <p align="center"> My Links </p>
 <div align="center">
