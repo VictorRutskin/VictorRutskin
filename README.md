@@ -55,4 +55,4 @@
 <a target="blank"><img align="center" src="Icons/SQL.png" width="50" />SQL</a>
 </div>
 
-(note to self- split by backend frontend servers etc later on + add TS+angular)
+(note to self- split by backend frontend servers etc later on + add TS+angular + bootstrap)
