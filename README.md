@@ -59,14 +59,16 @@
 <a target="blank"><img src="Icons/Python-Dark.svg" width="50" />Python</a>
 <a target="blank"><img src="Icons/CS.svg" width="50" />CSharp</a>
       
-<a target="blank"><img src="Icons/ASP.NET.avif" width="50" />ASP.NET</a>
-<a target="blank"><img src="Icons/SQL.png" width="50" />SQL</a>
+<a target="blank"><img src="Icons/NetFramework.png" width="50" />Framework</a>
+<a target="blank"><img src="Icons/NetCore.png" width="50" />Core</a>
       
+<a target="blank"><img src="Icons/MSSQL.png" width="50" />MSSQL</a>
 <a target="blank"><img src="Icons/NodeJS-Dark.svg" width="50" />Node.js</a>
     </td>
     <td width="400" align="center">
 <!-- Other -->
 <a target="blank"><img src="Icons/Adobe_Photoshop.png" width="50" />Adobe Photoshop</a>
+<a target="blank"><img src="Icons/Burpsuite.png" width="50" />Burpsuite</a>
     </td>
   </tr>
 </table>
