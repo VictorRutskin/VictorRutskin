@@ -56,11 +56,11 @@
     </td>
     <td width="400" align="center">
  <!-- BackEnd -->
-<a target="blank"><img src="Icons/Python-Dark.svg" width="50" />Python</a>
-<a target="blank"><img src="Icons/CS.svg" width="50" />CSharp</a>
-      
 <a target="blank"><img src="Icons/NetFramework.png" width="50" />Framework</a>
 <a target="blank"><img src="Icons/NetCore.png" width="50" />Core</a>
+
+<a target="blank"><img src="Icons/CS.svg" width="50" />CSharp</a>   
+<a target="blank"><img src="Icons/Python-Dark.svg" width="50" />Python</a>
       
 <a target="blank"><img src="Icons/MSSQL.png" width="50" />MSSQL</a>
 <a target="blank"><img src="Icons/NodeJS-Dark.svg" width="50" />Node.js</a>
