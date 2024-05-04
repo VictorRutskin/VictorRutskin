@@ -24,12 +24,22 @@
 <!-- Links -->
 ### <p align="center"> My Links </p>
 <div align="center">
-
-<a href="https://www.linkedin.com/in/victor-rutskin-9a3a9a226/" target="blank"><img align="center" src="Icons/Social/LinkedIn.png" width="50" />LinkedIn</a>
-<a href="https://www.root-me.org/Lashaka?lang=en#5c7a86509b2bb852abfc42e4cd24679f" target="blank"><img align="center" src="Icons/Social/RootMe.png" width="50" />RootMe</a>
-<a href="https://github.com/VictorRutskin/My_LaTeX_CV" target="blank"><img align="center" src="Icons/Social/Reference.png" width="50" />CV</a>
-<a href="https://drive.google.com/drive/folders/1WNTWVhgmSy2Srt8VOUuspCrWmtmm6eF0" target="blank"><img align="center" src="Icons/Social/Reference.png" width="50" />References</a>
+  <a href="https://www.linkedin.com/in/victor-rutskin-9a3a9a226/" target="_blank">
+    <img src="Icons/Social/LinkedIn.png" width="50" alt="LinkedIn" />LinkedIn
+  </a>
+  <a href="https://www.root-me.org/Lashaka?lang=en#5c7a86509b2bb852abfc42e4cd24679f" target="_blank">
+    <img src="Icons/Social/RootMe.png" width="50" alt="RootMe" />RootMe
+  </a>
+  <!-- Adding a non-linked separator -->
+  <span> | </span>
+  <a href="https://github.com/VictorRutskin/My_LaTeX_CV" target="_blank">
+    <img src="Icons/Social/Reference.png" width="50" alt="CV" />CV
+  </a>
+  <a href="https://drive.google.com/drive/folders/1WNTWVhgmSy2Srt8VOUuspCrWmtmm6eF0" target="_blank">
+    <img src="Icons/Social/Reference.png" width="50" alt="References" />References
+  </a>
 </div>
+
 
 <img  src="Icons/borderseperator.gif">
 
