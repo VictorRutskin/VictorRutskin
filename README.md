@@ -86,6 +86,7 @@
 <img  src="Icons/borderseperator.gif">
 
 <div align="center">
+  <!-- Web Repos -->
   <h2>Web Repos</h2>
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
@@ -124,8 +125,16 @@
         </a>
       </td>
     </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/VictorRutskin/Mordis-Second-Hand-Angular-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Mordis-Second-Hand-Angular-Website&theme=cobalt" alt="Mordis-Second-Hand-Angular-Website" style="border: 0;" />
+        </a>
+      </td>
+    </tr>
   </table>
 
+  <!-- Software Repos -->
   <h2>Software Repos</h2>
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
@@ -149,6 +158,7 @@
     </tr>
   </table>
 
+  <!-- Cyber Repos -->
   <h2>Cyber Repos</h2>
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
@@ -168,6 +178,11 @@
         <td>
         <a href="https://github.com/VictorRutskin/TipulDay">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=TipulDay&theme=cobalt" alt="TipulDay" style="border: 0;" />
+        </a>
+      </td>
+             <td>
+        <a href="https://github.com/VictorRutskin/String-Encrypter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=String-Encrypter&theme=cobalt" alt="String-Encrypter" style="border: 0;" />
         </a>
       </td>
    </tr>
