@@ -103,13 +103,13 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/VictorRutskin/My-Fashion-Angular-Frontend-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website&theme=cobalt" alt="My Fashion Angular Frontend Website" style="border: 0;" />
+        <a href="https://github.com/VictorRutskin/Simple-Workers-Manager-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Simple-Workers-Manager-Website&theme=cobalt" alt="Simple Workers Manager Website" style="border: 0;" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/VictorRutskin/BMI-ASP.NET-CORE-WEB-API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API&theme=cobalt" alt="BMI ASP.NET CORE WEB API" style="border: 0;" />
+            <td>
+        <a href="https://github.com/VictorRutskin/My-Fashion-Angular-Frontend-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website&theme=cobalt" alt="My Fashion Angular Frontend Website" style="border: 0;" />
         </a>
       </td>
     </tr>
@@ -120,8 +120,8 @@
         </a>
       </td>
             <td>
-        <a href="https://github.com/VictorRutskin/Simple-Workers-Manager-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Simple-Workers-Manager-Website&theme=cobalt" alt="Simple Workers Manager Website" style="border: 0;" />
+                      <a href="https://github.com/VictorRutskin/BMI-ASP.NET-CORE-WEB-API">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API&theme=cobalt" alt="BMI ASP.NET CORE WEB API" style="border: 0;" />
         </a>
       </td>
     </tr>
