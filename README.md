@@ -89,36 +89,36 @@
     <tr>
       <td>
         <a href="https://github.com/VictorRutskin/Simple-Workers-Manager-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Simple-Workers-Manager-Website" alt="Simple Workers Manager Website" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Simple-Workers-Manager-Website&theme=dark" alt="Simple Workers Manager Website" />
         </a>
       </td>
       <td>
         <a href="https://github.com/VictorRutskin/My-Fashion-Angular-Frontend-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website" alt="My Fashion Angular Frontend Website" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website&theme=dark" alt="My Fashion Angular Frontend Website" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/VictorRutskin/BMI-ASP.NET-CORE-WEB-API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API" alt="BMI ASP.NET CORE WEB API" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API&theme=dark" alt="BMI ASP.NET CORE WEB API" />
         </a>
       </td>
       <td>
         <a href="https://github.com/VictorRutskin/Alien-Shop-ASP.NET-CORE-MVC-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Alien-Shop-ASP.NET-CORE-MVC-Website" alt="Alien Shop ASP.NET CORE MVC Website" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Alien-Shop-ASP.NET-CORE-MVC-Website&theme=dark" alt="Alien Shop ASP.NET CORE MVC Website" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/VictorRutskin/TipulDay">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=TipulDay" alt="TipulDay" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=TipulDay&theme=dark" alt="TipulDay" />
         </a>
       </td>
       <td>
         <a href="https://github.com/VictorRutskin/Phishing-Websites">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Phishing-Websites" alt="Phishing Websites" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Phishing-Websites&theme=dark" alt="Phishing Websites" />
         </a>
       </td>
     </tr>
