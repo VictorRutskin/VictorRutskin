@@ -131,6 +131,18 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Mordis-Second-Hand-Angular-Website&theme=cobalt" alt="Mordis-Second-Hand-Angular-Website" style="border: 0;" />
         </a>
       </td>
+                <td>
+        <a href="https://github.com/VictorRutskin/Cool-CSS-Text-Effects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Cool-CSS-Text-Effects&theme=cobalt" alt="Cool-CSS-Text-Effects" style="border: 0;" />
+        </a>
+      </td>
+    </tr>
+            <tr>
+                <td>
+        <a href="https://github.com/VictorRutskin/User-Data-Collector-Javascript">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=User-Data-Collector-Javascript&theme=cobalt" alt="User-Data-Collector-Javascript" style="border: 0;" />
+        </a>
+      </td>
     </tr>
   </table>
 
@@ -153,6 +165,18 @@
       <td>
         <a href="https://github.com/VictorRutskin/The-Monster-Slayer">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=The-Monster-Slayer&theme=cobalt" alt="The Monster Slayer" style="border: 0;" />
+        </a>
+      </td>
+            <td>
+        <a href="https://github.com/VictorRutskin/Magical-Vending-Machine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Magical-Vending-Machine&theme=cobalt" alt="Magical-Vending-Machine" style="border: 0;" />
+        </a>
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/VictorRutskin/Box-Factory-Manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Box-Factory-Manager&theme=cobalt" alt="Box-Factory-Manager" style="border: 0;" />
         </a>
       </td>
     </tr>
