@@ -84,43 +84,44 @@
 </table>
 
 <img  src="Icons/borderseperator.gif">
-
-<table>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/VictorRutskin/Simple-Workers-Manager-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Simple-Workers-Manager-Website" alt="Simple Workers Manager Website" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/VictorRutskin/My-Fashion-Angular-Frontend-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website" alt="My Fashion Angular Frontend Website" />
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/VictorRutskin/BMI-ASP.NET-CORE-WEB-API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API" alt="BMI ASP.NET CORE WEB API" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/VictorRutskin/Alien-Shop-ASP.NET-CORE-MVC-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Alien-Shop-ASP.NET-CORE-MVC-Website" alt="Alien Shop ASP.NET CORE MVC Website" />
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/VictorRutskin/TipulDay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=TipulDay" alt="TipulDay" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/VictorRutskin/Phishing-Websites">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Phishing-Websites" alt="Phishing Websites" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/VictorRutskin/Simple-Workers-Manager-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Simple-Workers-Manager-Website" alt="Simple Workers Manager Website" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VictorRutskin/My-Fashion-Angular-Frontend-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website" alt="My Fashion Angular Frontend Website" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/VictorRutskin/BMI-ASP.NET-CORE-WEB-API">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API" alt="BMI ASP.NET CORE WEB API" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VictorRutskin/Alien-Shop-ASP.NET-CORE-MVC-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Alien-Shop-ASP.NET-CORE-MVC-Website" alt="Alien Shop ASP.NET CORE MVC Website" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/VictorRutskin/TipulDay">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=TipulDay" alt="TipulDay" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VictorRutskin/Phishing-Websites">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Phishing-Websites" alt="Phishing Websites" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
