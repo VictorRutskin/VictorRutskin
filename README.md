@@ -96,8 +96,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/VictorRutskin/Car-Shop-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Car-Shop-Website&theme=cobalt" alt="Car Shop Website" style="border: 0;" />
+        <a href="https://github.com/VictorRutskin/Albar-Home-Assigment-.NET-Angular-Car-Shop-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Albar-Home-Assigment-.NET-Angular-Car-Shop-Website&theme=cobalt" alt="Car Shop Website" style="border: 0;" />
         </a>
       </td>
     </tr>
