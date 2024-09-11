@@ -90,14 +90,14 @@
   <h2>Web Repos</h2>
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
+            <td>
+        <a href="https://github.com/VictorRutskin/DATwise-home-Assigment-.Net-Web-Forms-Workers-Manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=DATwise-home-Assigment-.Net-Web-Forms-Workers-Manager&theme=cobalt" alt="Car Shop Website" style="border: 0;" />
+        </a>
+      </td>
       <td>
         <a href="https://github.com/VictorRutskin/Car-Shop-Website">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Car-Shop-Website&theme=cobalt" alt="Car Shop Website" style="border: 0;" />
-        </a>
-      </td>
-            <td>
-        <a href="https://github.com/VictorRutskin/Flight-Simulator-Manager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Flight-Simulator-Manager&theme=cobalt" alt="Flight Simulator Manager" style="border: 0;" />
         </a>
       </td>
     </tr>
@@ -107,9 +107,9 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Simple-Workers-Manager-Website&theme=cobalt" alt="Simple Workers Manager Website" style="border: 0;" />
         </a>
       </td>
-            <td>
-        <a href="https://github.com/VictorRutskin/My-Fashion-Angular-Frontend-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website&theme=cobalt" alt="My Fashion Angular Frontend Website" style="border: 0;" />
+                  <td>
+        <a href="https://github.com/VictorRutskin/Flight-Simulator-Manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Flight-Simulator-Manager&theme=cobalt" alt="Flight Simulator Manager" style="border: 0;" />
         </a>
       </td>
     </tr>
@@ -119,9 +119,9 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Alien-Shop-ASP.NET-CORE-MVC-Website&theme=cobalt" alt="Alien Shop ASP.NET CORE MVC Website" style="border: 0;" />
         </a>
       </td>
-            <td>
-                      <a href="https://github.com/VictorRutskin/BMI-ASP.NET-CORE-WEB-API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API&theme=cobalt" alt="BMI ASP.NET CORE WEB API" style="border: 0;" />
+                  <td>
+        <a href="https://github.com/VictorRutskin/My-Fashion-Angular-Frontend-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=My-Fashion-Angular-Frontend-Website&theme=cobalt" alt="My Fashion Angular Frontend Website" style="border: 0;" />
         </a>
       </td>
     </tr>
@@ -131,9 +131,9 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Mordis-Second-Hand-Angular-Website&theme=cobalt" alt="Mordis-Second-Hand-Angular-Website" style="border: 0;" />
         </a>
       </td>
-                <td>
-        <a href="https://github.com/VictorRutskin/Cool-CSS-Text-Effects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Cool-CSS-Text-Effects&theme=cobalt" alt="Cool-CSS-Text-Effects" style="border: 0;" />
+            <td>
+                      <a href="https://github.com/VictorRutskin/BMI-ASP.NET-CORE-WEB-API">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=BMI-ASP.NET-CORE-WEB-API&theme=cobalt" alt="BMI ASP.NET CORE WEB API" style="border: 0;" />
         </a>
       </td>
     </tr>
@@ -141,6 +141,11 @@
                 <td>
         <a href="https://github.com/VictorRutskin/User-Data-Collector-Javascript">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=User-Data-Collector-Javascript&theme=cobalt" alt="User-Data-Collector-Javascript" style="border: 0;" />
+        </a>
+      </td>
+                <td>
+        <a href="https://github.com/VictorRutskin/Cool-CSS-Text-Effects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorRutskin&repo=Cool-CSS-Text-Effects&theme=cobalt" alt="Cool-CSS-Text-Effects" style="border: 0;" />
         </a>
       </td>
     </tr>
