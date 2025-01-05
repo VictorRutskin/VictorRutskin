@@ -32,13 +32,6 @@
   <a href="https://www.root-me.org/Lashaka?lang=en#5c7a86509b2bb852abfc42e4cd24679f" target="_blank">
     <img src="Icons/Social/RootMe.png" width="50" alt="RootMe" />RootMe
   </a>
-  <!-- Image with linked texts for CV and References -->
-  <span>
-    <img src="Icons/Social/Reference.png" width="50" alt="Reference" />
-    <a href="https://github.com/VictorRutskin/My_LaTeX_CV" target="_blank">CV</a>
-    &amp; 
-    <a href="https://drive.google.com/drive/folders/1WNTWVhgmSy2Srt8VOUuspCrWmtmm6eF0" target="_blank">References</a>
-  </span>
 </div>
 
 
